@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Developing Drivers and Other Projects**
 
-- 🌱 I’m currently learning **JavaScript / More of Kernel Level and C++**
+-  **JavaScript / More of Kernel Level and C++**
 
 - 🔭 I’m currently working on **Advanced authentication API inspired by KeyAuth and Auth.gg**
 
-- 🔭 I’m currently working on **Memory offset tools and reverse-engineering utilities**
+-  **Memory offset tools and reverse-engineering utilities**
 
 - 📝 I regularly write articles on [https://github.com/LeviathanV1/](https://github.com/LeviathanV1/)
 
